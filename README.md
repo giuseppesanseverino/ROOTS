@@ -22,7 +22,7 @@ The volume of scientific literature is growing exponentially, making it harder t
 1. Search engines (e.g. Google Scholar) rely on predefined sections like titles, keywords, and authors, thus limiting depth and missing contextual cues.
 2. Example-based tools (e.g. NotebookLM) require the user to already possess a representative paper, which beginners usually don’t have.
 
-In short, current systems either expect too much from beginner users and the output might be overwelming. 
+In short, current systems either expect too much from beginner users and the output might be overwhelming.
 
 ### Our Solution: ROOTS
 
@@ -47,7 +47,7 @@ ROOTS is designed to target:
 ### Why ROOTS Matters
 
 As publication rates continue to rise rapidly and research becomes more interconnected, tools like ROOTS will be crucial in democratizing access to scientific knowledge—making research more approachable, inclusive, and efficient for all levels of expertise.
-ROOTS output can also be used as input for other AI-powered scientific assistans such as Notebook LM, or Research Rabbit. 
+ROOTS output can also be used as input for other AI-powered scientific assistans such as [Notebook LM](https://notebooklm.google/), or [Research Rabbit](https://www.researchrabbit.ai/). Thus representing a useful add-on to already existing tools. 
 
 ## How ROOTS works
 
