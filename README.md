@@ -61,6 +61,8 @@ The Image below shows a screen capture of the UI.
 
 <img width="644" alt="Picture1" src="https://github.com/user-attachments/assets/cb97ea9a-09d0-4a27-afbc-5b251e51c549" />
 
+A demo of the UI is available (only as temporary link) here: [Link](https://f40a73ab41374fc9a6.gradio.live/)
+
 ### System implementation
 
 - Search string is given directly to an embedding model, which tokenize the query and calculates an embedding.
