@@ -31,18 +31,18 @@ ROOTS is an AI-powered recommender system that helps beginners find their footin
 Unlike traditional systems, ROOTS leverages Generative AI to analyze not only the structured metadata (titles, keywords, etc.) but also deeper semantic cues across abstracts. This allows for context-aware recommendations even if the user starts with just a broad phrase, a vague interest, or a general topic.
 
 With ROOTS, users can:
-	•	Receive paper recommendations without needing to know specific keywords.
-	•	Discover foundational authors and works in a new field.
-	•	Save time and avoid time-consuming manual searches.
-	•	Build a clearer understanding of a domain from the ground up.
+- Receive paper recommendations without needing to know specific keywords.
+- Discover foundational authors and works in a new field.
+- Save time and avoid time-consuming manual searches.
+- Build a clearer understanding of a domain from the ground up.
 
 ### Who Is ROOTS For
 
 ROOTS is designed to target:
-	•	New graduate students or undergraduates entering research.
-	•	Researchers switching to a new discipline.
-	•	Educators designing reading lists for introductory topics.
-	•	Anyone curious and overwhelmed by scientific literature.
+- New graduate students or undergraduates entering research.
+- Researchers switching to a new discipline.
+- Educators designing reading lists for introductory topics.
+- Anyone curious and overwhelmed by scientific literature.
 
 ### Why ROOTS Matters
 
