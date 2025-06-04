@@ -47,6 +47,7 @@ ROOTS is designed to target:
 ### Why ROOTS Matters
 
 As publication rates continue to rise rapidly and research becomes more interconnected, tools like ROOTS will be crucial in democratizing access to scientific knowledge—making research more approachable, inclusive, and efficient for all levels of expertise.
+ROOTS output can also be used as input for other AI-powered scientific assistans such as Notebook LM, or Research Rabbit. 
 
 ## How ROOTS works
 
