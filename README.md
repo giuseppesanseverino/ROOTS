@@ -53,4 +53,29 @@ ROOTS output can also be used as input for other AI-powered scientific assistans
 
 ### Interface design
 
+Gradio is used to design the frontend. The inputs and outputs of the webapp are reported in the following flowchart:
+
+![ROOTS_Miro_final](https://github.com/user-attachments/assets/aa6a3c72-f9eb-4951-ada1-c50ac35632a9)
+
+The Image below shows a screen capture of the UI.
+
+### System implementation
+
+- Search string is given directly to an embedding model, which tokenize the query and calculates an embedding.
+
+- Calculation of the cosine similarity between the search string embedding and all document embeddings.
+
+- Output of the top hits with the highest similarity.
+
+## Limitations
+
+- Slow calculation of the similarity between the search string embedding and all document embeddings à Parallel computation is faster.
+
+- Better data structure for a good internal data management.
+
+- GPU usage for Hugging Face.
+
+- Memory optimization (e.g. for DataFrames).
+
+
 
