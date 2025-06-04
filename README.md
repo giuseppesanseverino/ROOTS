@@ -59,6 +59,8 @@ Gradio is used to design the frontend. The inputs and outputs of the webapp are 
 
 The Image below shows a screen capture of the UI.
 
+<img width="644" alt="Picture1" src="https://github.com/user-attachments/assets/cb97ea9a-09d0-4a27-afbc-5b251e51c549" />
+
 ### System implementation
 
 - Search string is given directly to an embedding model, which tokenize the query and calculates an embedding.
@@ -77,5 +79,9 @@ The Image below shows a screen capture of the UI.
 
 - Memory optimization (e.g. for DataFrames).
 
+# Code
 
+Developed [backend](backend.py) and [frontend](frontend.py) codes are shared in this repository.  
+
+Please note that the two are standlaone codes. Due to time constraint our team was not able to have a full implementation. Also, the backend still needs refinements to work as described above.
 
