@@ -12,11 +12,11 @@ Team members (in alphabetical order)
 - Giuseppe Sanseverino, Professorship for Humans and Technology, TU Chemnitz
 - Lena Marcella Nischwitz, Professorship for Humans and Technology, TU Chemnitz
 
-# Introduction
+## Introduction
 
 Navigating a new academic field can be overwhelming especially for beginners unfamiliar with key terminology, foundational authors, or landmark publications. Traditional search engines and academic databases assume the user already knows what to look for, creating a barrier for early-stage researchers, students, or those exploring interdisciplinary topics.
 
-## The Problem
+### The Problem
 
 The volume of scientific literature is growing exponentially, making it harder than ever to identify relevant and foundational work. Existing solutions often fall short:
 1. Search engines (e.g. Google Scholar) rely on predefined sections like titles, keywords, and authors, thus limiting depth and missing contextual cues.
@@ -24,7 +24,7 @@ The volume of scientific literature is growing exponentially, making it harder t
 
 In short, current systems either expect too much from beginner users and the output might be overwelming. 
 
-## Our Solution: ROOTS
+### Our Solution: ROOTS
 
 ROOTS is an AI-powered recommender system that helps beginners find their footing in any academic domain with minimal input.
 
@@ -36,7 +36,7 @@ With ROOTS, users can:
 	•	Save time and avoid time-consuming manual searches.
 	•	Build a clearer understanding of a domain from the ground up.
 
-## Who Is ROOTS For
+### Who Is ROOTS For
 
 ROOTS is designed to target:
 	•	New graduate students or undergraduates entering research.
@@ -44,12 +44,12 @@ ROOTS is designed to target:
 	•	Educators designing reading lists for introductory topics.
 	•	Anyone curious and overwhelmed by scientific literature.
 
-## Why ROOTS Matters
+### Why ROOTS Matters
 
 As publication rates continue to rise rapidly and research becomes more interconnected, tools like ROOTS will be crucial in democratizing access to scientific knowledge—making research more approachable, inclusive, and efficient for all levels of expertise.
 
-# How ROOTS works
+## How ROOTS works
 
-## Interface design
+### Interface design
 
 
