@@ -1,2 +1,55 @@
 # ROOTS
+
+![ROOTSlogo](https://github.com/user-attachments/assets/48c7d6c4-9d07-4e30-911d-389fcdda253e)
+
 ROOTS - Research Orientation and Overview Tool for Starters, is an AI-powered tool that helps beginners explore academic fields by recommending foundational papers, key authors, and essential keywords to build a strong understanding from the ground up.
+
+ROOTS is developed by the team MuT in the context of the 1st [ACROSS](https://www.across-alliance.eu/) Hackaton on AI-based tools for metrics in educations, STEM and social sciences.
+
+Team members (in alphabetical order)
+- Daniel Trommler, Professorship for Humans and Technology, TU Chemnitz
+- Ferenc Rósza, Professorship for Humans and Technology, TU Chemnitz
+- Giuseppe Sanseverino, Professorship for Humans and Technology, TU Chemnitz
+- Lena Marcella Nischwitz, Professorship for Humans and Technology, TU Chemnitz
+
+# Introduction
+
+Navigating a new academic field can be overwhelming especially for beginners unfamiliar with key terminology, foundational authors, or landmark publications. Traditional search engines and academic databases assume the user already knows what to look for, creating a barrier for early-stage researchers, students, or those exploring interdisciplinary topics.
+
+## The Problem
+
+The volume of scientific literature is growing exponentially, making it harder than ever to identify relevant and foundational work. Existing solutions often fall short:
+1. Search engines (e.g. Google Scholar) rely on predefined sections like titles, keywords, and authors, thus limiting depth and missing contextual cues.
+2. Example-based tools (e.g. NotebookLM) require the user to already possess a representative paper, which beginners usually don’t have.
+
+In short, current systems either expect too much from beginner users and the output might be overwelming. 
+
+## Our Solution: ROOTS
+
+ROOTS is an AI-powered recommender system that helps beginners find their footing in any academic domain with minimal input.
+
+Unlike traditional systems, ROOTS leverages Generative AI to analyze not only the structured metadata (titles, keywords, etc.) but also deeper semantic cues across abstracts. This allows for context-aware recommendations even if the user starts with just a broad phrase, a vague interest, or a general topic.
+
+With ROOTS, users can:
+	•	Receive paper recommendations without needing to know specific keywords.
+	•	Discover foundational authors and works in a new field.
+	•	Save time and avoid time-consuming manual searches.
+	•	Build a clearer understanding of a domain from the ground up.
+
+## Who Is ROOTS For
+
+ROOTS is designed to target:
+	•	New graduate students or undergraduates entering research.
+	•	Researchers switching to a new discipline.
+	•	Educators designing reading lists for introductory topics.
+	•	Anyone curious and overwhelmed by scientific literature.
+
+## Why ROOTS Matters
+
+As publication rates continue to rise rapidly and research becomes more interconnected, tools like ROOTS will be crucial in democratizing access to scientific knowledge—making research more approachable, inclusive, and efficient for all levels of expertise.
+
+# How ROOTS works
+
+## Interface design
+
+
